@@ -49,7 +49,9 @@ Here are some ideas to get you started:
 <br>
 <!-- 백준 티어표 (v2.0) -->
 <div align="center">
-  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chabin37" alt="백준티어"/>
+  <a href="https://solved.ac/profile/chabin37">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=chabin37" href="https://solved.ac/profile/chabin37" alt="백준티어"/>
+  </a>
 </div>
 <br>
 
