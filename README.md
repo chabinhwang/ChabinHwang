@@ -68,7 +68,7 @@ Here are some ideas to get you started:
 <img src="https://skillicons.dev/icons?i=java,python,js,css,react">
 
 ###  Database
-<img src="https://skillicons.dev/icons?i=mysql">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql">
 
 ###  FrameWorks
 <img src="https://skillicons.dev/icons?i=spring,django">
@@ -76,6 +76,6 @@ Here are some ideas to get you started:
 ### DevOps Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions,grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,grafana,prometheus" />
   </a>
 </p>
