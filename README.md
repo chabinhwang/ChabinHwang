@@ -63,7 +63,11 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-# Skills
+## Open Source Contributions
+### spring-projects/spring-ai
+- [docs: Fix typos in Javadocs and inline comments #5238](https://github.com/spring-projects/spring-ai/pull/5238)
+
+## Skills
 ###  Languages
 <img src="https://skillicons.dev/icons?i=java,python,js,css,react">
 
