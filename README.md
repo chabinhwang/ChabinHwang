@@ -70,17 +70,17 @@ Here are some ideas to get you started:
 
 ## Skills
 ###  Languages
-<img src="https://skillicons.dev/icons?i=java,python,js,css,react">
+<img src="https://skillicons.dev/icons?i=java,python,js">
 
 ###  Database
-<img src="https://skillicons.dev/icons?i=mysql,postgresql">
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,redis">
 
 ###  FrameWorks
-<img src="https://skillicons.dev/icons?i=spring,django">
+<img src="https://skillicons.dev/icons?i=spring,nestjs,fastapi">
 
 ### DevOps Tools
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kubernetes,docker,githubactions,grafana,prometheus" />
+    <img src="https://skillicons.dev/icons?i=kubernetes,ubuntu,docker,githubactions,grafana,prometheus" />
   </a>
 </p>
