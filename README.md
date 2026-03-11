@@ -62,11 +62,14 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Tistory-FF6600?style=flat-square&logo=Tistory&logoColor=white"/>
   </a>
 </div>
-
+<!--
 ## Open Source Contributions
 ### spring-projects/spring-ai
 - [docs: Fix typos in Javadocs and inline comments #5238](https://github.com/spring-projects/spring-ai/pull/5238)
 - [docs: Fix comment typos in commons #5333](https://github.com/spring-projects/spring-ai/pull/5333)
+-->
+
+
 
 ## Skills
 ###  Languages
