@@ -84,12 +84,13 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-
+refactor: improve time complexity and reduce memory allocations #5601
 ### Open Source Contributions
 #### spring-projects/spring-ai
 #### Merged
 - [docs: Fix typos in Javadocs and inline comments #5238](https://github.com/spring-projects/spring-ai/pull/5238)
 - [docs: Fix comment typos in commons #5333](https://github.com/spring-projects/spring-ai/pull/5333)
+- [refactor: improve time complexity and reduce memory allocations #5601](https://github.com/spring-projects/spring-ai/pull/5601)
+- 
 #### Progressing
 - [[Feature] Add Jlama chat model support #5460](https://github.com/spring-projects/spring-ai/pull/5460)
-- [Improve time complexity and reduce memory allocations #5292](https://github.com/spring-projects/spring-ai/pull/5292)
