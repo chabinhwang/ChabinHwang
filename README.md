@@ -84,7 +84,7 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-refactor: improve time complexity and reduce memory allocations #5601
+
 ## Open Source Contributions
 ### spring-projects/spring-ai
 ### Merged
