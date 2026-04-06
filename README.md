@@ -64,8 +64,8 @@ Here are some ideas to get you started:
 </div>
 
 
-
-
+## Prize
+- (2026.04.04) AI_TOP_100(CAMPUS) 금상 수상 [Link](https://www.kakaoimpact.org/news/view?atclId=266)
 
 ## Skills
 ###  Languages
