@@ -67,6 +67,7 @@ Here are some ideas to get you started:
 ## Prize
 - [2026.04.04] AI_TOP_100(CAMPUS) 금상 수상 [Link](https://www.kakaoimpact.org/news/view?atclId=266)
 
+<!--
 ## Skills
 ###  Languages
 <img src="https://skillicons.dev/icons?i=java,python,js">
@@ -83,7 +84,7 @@ Here are some ideas to get you started:
     <img src="https://skillicons.dev/icons?i=kubernetes,ubuntu,docker,githubactions,grafana,prometheus" />
   </a>
 </p>
-
+-->
 
 ## Open Source Contributions
 ### spring-projects/spring-ai
