@@ -97,4 +97,4 @@ Here are some ideas to get you started:
 
 ### Progressing
 
-- [refactor: Optimize Typesense vector query construction](https://github.com/spring-projects/spring-ai/pull/6151)
+- [refactor: Optimize Typesense vector query construction #6151](https://github.com/spring-projects/spring-ai/pull/6151)
