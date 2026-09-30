@@ -88,7 +88,6 @@ Here are some ideas to get you started:
 
 ## Open Source Contributions
 ### spring-projects/spring-ai
-### Merged
 
 - [refactor: improve time complexity and reduce memory allocations #5601](https://github.com/spring-projects/spring-ai/pull/5601)
 - [Skip empty text content blocks for Bedrock user messages #6946](https://github.com/spring-projects/spring-ai/pull/6946)
