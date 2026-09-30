@@ -92,10 +92,7 @@ Here are some ideas to get you started:
 
 - [refactor: improve time complexity and reduce memory allocations #5601](https://github.com/spring-projects/spring-ai/pull/5601)
 - [Skip empty text content blocks for Bedrock user messages #6946](https://github.com/spring-projects/spring-ai/pull/6946)
+- [Fix Neo4j chat memory index properties #6967](https://github.com/spring-projects/spring-ai/pull/6967)
 - [docs: Fix typos in Javadocs and inline comments #5238](https://github.com/spring-projects/spring-ai/pull/5238)
 - [docs: Fix comment typos in commons #5333](https://github.com/spring-projects/spring-ai/pull/5333)
 
-
-### Progressing
-
-- [refactor: Optimize Typesense vector query construction #6151](https://github.com/spring-projects/spring-ai/pull/6151)
